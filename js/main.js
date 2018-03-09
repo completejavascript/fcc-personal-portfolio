@@ -32,63 +32,63 @@ $(document).ready(function(){
   let portfolioTemplate = $('#portfolio-item-template').html();
   const portfolioItems = [
     {
-      "link-view": "#",
+      "link-view": "javascript:void(0)",
       "alt-image": "portfolio image",
       "path-image": "./res/comming-soon-completejavascript.com.png",
       "title": "A JavaScript Calculator",
       "tags" : ["HTML5", "CSS3"]
     },
     {
-      "link-view": "#",
+      "link-view": "javascript:void(0)",
       "alt-image": "portfolio image",
       "path-image": "./res/comming-soon-completejavascript.com.png",
       "title": "A Pomodoro Clock",
       "tags" : ["HTML5", "CSS3"]
     },
     {
-      "link-view": "#",
+      "link-view": "javascript:void(0)",
       "alt-image": "portfolio image",
       "path-image": "./res/comming-soon-completejavascript.com.png",
       "title": "A Tic Tac Toe Game",
       "tags" : ["HTML5", "CSS3"]
     },
     {
-      "link-view": "#",
+      "link-view": "javascript:void(0)",
       "alt-image": "portfolio image",
       "path-image": "./res/comming-soon-completejavascript.com.png",
       "title": "A Simon Game",
       "tags" : ["HTML5", "CSS3"]
     },
     {
-      "link-view": "#",
+      "link-view": "javascript:void(0)",
       "alt-image": "portfolio image",
       "path-image": "./res/comming-soon-completejavascript.com.png",
       "title": "A Markdown Previewer",
       "tags" : ["HTML5", "CSS3"]
     },
     {
-      "link-view": "#",
+      "link-view": "javascript:void(0)",
       "alt-image": "portfolio image",
       "path-image": "./res/comming-soon-completejavascript.com.png",
       "title": "A Camper Leaderboard",
       "tags" : ["HTML5", "CSS3"]
     },
     {
-      "link-view": "#",
+      "link-view": "javascript:void(0)",
       "alt-image": "portfolio image",
       "path-image": "./res/comming-soon-completejavascript.com.png",
       "title": "A Recipe Box",
       "tags" : ["HTML5", "CSS3"]
     },
     {
-      "link-view": "#",
+      "link-view": "javascript:void(0)",
       "alt-image": "portfolio image",
       "path-image": "./res/comming-soon-completejavascript.com.png",
       "title": "The Game of Life",
       "tags" : ["HTML5", "CSS3"]
     },
     {
-      "link-view": "#",
+      "link-view": "javascript:void(0)",
       "alt-image": "portfolio image",
       "path-image": "./res/comming-soon-completejavascript.com.png",
       "title": "A Roguelike Dungeon Crawler Game",
