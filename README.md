@@ -1,4 +1,4 @@
-# [FCC] Build a Tribute Page - Brendan Eich
+# [FCC] Personal Portfolio
 
 A freeCodeCamp project - Personal Portfolio
 
